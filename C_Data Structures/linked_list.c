@@ -42,7 +42,7 @@ struct Node *Insert(int x, struct Node *HEAD)
 
 int main()
 {
-    head = NULL;  
+    head = NULL;
     struct Node *HEAD = NULL;
     printf("How many number ?\n");
     int n, i, x;
