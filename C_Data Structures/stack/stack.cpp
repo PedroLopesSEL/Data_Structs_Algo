@@ -1,6 +1,5 @@
 /* C++ program to implement basic stack
    operations */
-#include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
 
@@ -69,7 +68,7 @@ bool Stack::isEmpty()
 // Driver program to test above functions
 int main()
 {
-    class Stack s;
+    Stack s;
     s.push(10);
     s.push(20);
     s.push(30);
